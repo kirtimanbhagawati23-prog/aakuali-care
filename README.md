@@ -169,18 +169,6 @@ The website was hosted on **HostGator** and deployed using **cPanel**.
 
 The WordPress database was backed by MySQL, with WP Migrate DB used as part of the database migration workflow during development and deployment.
 
-## Screenshots
-
-Screenshots of the original website can be added here.
-
-```text
-screenshots/
-├── home.png
-├── services.png
-├── gallery.png
-├── blog.png
-└── contact.png
-```
 
 ## Project Context
 
